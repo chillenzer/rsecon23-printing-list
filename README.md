@@ -2,6 +2,8 @@
 
 Please, add anything that can be printed on a normal printer (I presume A3 at most):
 
-* Chairing guidance
-* "x minutes left" signs for chairs (how many?)
-* 20x A3, something that Chris talked about on slack (any details?)
+| Document | Quantity | Duplex | Notes |
+| --- | --- | --- | --- |
+| Chairing guidance | 1 | Yes | Many similar pages |
+| "x minutes left" signs for chairs | 4 | Yes | |
+| Documents for workshop (@cc-a) | 20? | ? | |
