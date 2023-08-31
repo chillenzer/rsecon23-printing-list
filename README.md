@@ -8,3 +8,4 @@ Please, add anything that can be printed on a normal printer (I presume A3 at mo
 | "x minutes left" signs for chairs | 4 | Yes, flip on short edge | |
 | Documents for workshop (@cc-a) | 20? | ? | |
 | QR codes for posters | 15 | No | |
+| Signage for room doors | 1 | No | |
