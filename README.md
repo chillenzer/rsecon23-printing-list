@@ -10,3 +10,4 @@ Please, add anything that can be printed on a normal printer (I presume A3 at mo
 | QR codes for posters              | 15       | A4         | No                      |                    |
 | Best poster certificate           | 1        | A4         | No                      | Print on card      |
 | Signage for room doors            | 1        | A3         | No                      |                    |
+| Logo for buses                    | 10       | A3         | No                      | (Just in case)     |
