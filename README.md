@@ -10,3 +10,5 @@ Please, add anything that can be printed on a normal printer (I presume A3 at mo
 | QR codes for posters              | 15       | A4         | No                      |                    |
 | Best poster certificate           | 1        | A4         | No                      | Print on card      |
 | Signage for room doors            | 1        | A3         | No                      |                    |
+| Bay Campus map                    | 3        | A4         | No                      |                    |
+
