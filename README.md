@@ -12,3 +12,4 @@ Please, add anything that can be printed on a normal printer (I presume A3 at mo
 | Signage for room doors            | 1        | A3         | No                      |                    |
 | Bay Campus map                    | 3        | A4         | No                      |                    |
 | Logo for buses                    | 10       | A3         | No                      | (Just in case)     |
+| OA program for reception desk     | 1        | A4         | Yes                     | from Dana          |
